@@ -1,0 +1,11 @@
+# .github/metadata.yaml
+description: "Swift implementation of the European Legislation Identifier (ELI): URI templates and the EU's own ELIs on EUR-Lex."
+topics:
+  - standards
+  - eu
+  - eli
+  - legislation
+  - legal-identifiers
+homepage: "https://swift-institute.org"
+readme:
+  family: E
